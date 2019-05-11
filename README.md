@@ -1,1 +1,1 @@
-# python-self-study
+个人PYQt5学习，目的为了制作一个游戏外挂软件界面
